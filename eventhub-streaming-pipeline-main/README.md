@@ -97,5 +97,5 @@ The `data/` folder contains realistic sample JSON messages that match the exact 
 5. In Databricks, deploy workflow and trigger: `databricks bundle run wf_transaction_ingest`
 
 ## Author
-**Sanjeev Kumar Pandey** — Data Engineer | Azure | Spark | Databricks  
-[LinkedIn](https://www.linkedin.com/in/sanjeev-pandey-7a45831ba) | sanjeevpandey640@gmail.com
+**Praveen Kumar Yadav** — Data Engineer | Azure | Spark | Databricks  
+[LinkedIn](https://www.linkedin.com/in/praveen-kumarcse/) | praveenbigdata79@gmail.com
