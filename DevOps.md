@@ -36,3 +36,15 @@ Pull Latest Code: git pull origin main   :- Downloads and merges the latest chan
 See Differences: git diff
 
 
+
+git Status: To know the modified files
+create and switch in one command: git  checkout -b feature2   
+check the branch name: git branch
+Add File: git add Dim_table.py OR Add All File :- add .
+Commit: git commit -m "adding the new files for dimtable"
+Push to GitHub:- git push origin feature2
+
+
+
+
+
