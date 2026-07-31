@@ -2,7 +2,7 @@
 Performance Optimization for Large-Scale Data Processing
 ========================================================
 
-This module implements performance optimization techniques for handling
+This module implements performance optimization techniques for handling  
 100M+ transaction records efficiently.
 
 Optimization Techniques:
