@@ -4,6 +4,7 @@ from src.main.utility.logging_config import *
 def dimesions_table_join(final_df_to_process,
                          customer_table_df,store_table_df,sales_team_table_df):
 
+                
     #step 1 where i am adding customer table
     # final_df_to_process.alias("s3_data") \
     #     .join(customer_table_df.alias("ct"),
